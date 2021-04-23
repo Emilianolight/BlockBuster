@@ -1,0 +1,11 @@
+2,Diablo,100,-2,true
+3,Terror en USA,200,-2,true
+4,Cantares,200,-2,true
+5,Los Miller,300,-2,true
+6,Señor Juez,400,-2,true
+7,Terminator,500,-2,true
+8,50 Sombras de Grey,100,-2,true
+9,Harry Potter,200,-2,true
+10,Matrix,100,-2,true
+123,harry potter 3 ,2000,-2,true
+12345,ultron,100,-2,true
